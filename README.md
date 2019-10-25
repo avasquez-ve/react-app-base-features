@@ -1,3 +1,8 @@
+##Aplicación en React con componentes basados en functions,
+
+Contiene el uso básico de la sintaxis de JSX, Creación de componentes, agregar HTML a componentes, pasar props a componentes, crear state, creación de método para modificar el state, enlazar datos entre componentes, agregar estilos CSS en línea y por documento .css
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
